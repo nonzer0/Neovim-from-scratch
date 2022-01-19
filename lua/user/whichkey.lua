@@ -78,6 +78,7 @@ local opts = {
   nowait = true, -- use `nowait` when creating keymaps
 }
 
+
 local mappings = {
   ["a"] = { "<cmd>Alpha<cr>", "Alpha" },
   ["b"] = {
